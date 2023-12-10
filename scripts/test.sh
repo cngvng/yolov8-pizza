@@ -1,0 +1,1 @@
+yolo detect predict model=/home/cuongvt/AIoT-tech/yolov8-pizza/yolov8x.pt conf=0.25 source=/home/cuongvt/AIoT-tech/yolov8-pizza/no_detection-yolov8x/images/20230427_110411_SNT_SNT-01_2847f6cb.jpg

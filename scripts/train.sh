@@ -1,0 +1,1 @@
+yolo detect train data=dataset_pizza.yaml model=yolov8x.pt epochs=48 imgsz=640

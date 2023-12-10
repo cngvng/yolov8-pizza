@@ -1,1 +1,1 @@
-# yolov8-pizza
+# pizza-multi-label-classification

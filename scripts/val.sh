@@ -1,0 +1,1 @@
+yolo detect val model=/home/cuongvt/AIoT-tech/yolov8-pizza/runs/detect/train13/weights/best.pt data=dataset_pizza.yaml
